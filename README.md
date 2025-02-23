@@ -141,7 +141,7 @@ This project is open-source under the MIT License.
 Feel free to submit issues & pull requests to improve this project!
 
 ## Contributors
-👨‍💻 Omkar Abhang 
+👨‍💻 Umesh Chavhan 
 
 ## 🔗 Follow Me
 LinkedIn: https://www.linkedin.com/in/umeshchavhan/
